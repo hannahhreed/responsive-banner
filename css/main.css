@@ -4,7 +4,11 @@ html {
   background-color: #495562;
 }
 
-.btn {
-  background-color: #495562;
+.banner-img {
+  max-height: 500px;
+}
+
+.btn-main {
+  color: #efefef;
   border-color: #97a49b;
 }
