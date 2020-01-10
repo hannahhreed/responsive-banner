@@ -12,3 +12,9 @@ html {
   color: #efefef;
   border-color: #97a49b;
 }
+
+.btn-main:hover {
+  background-color: #efefef;
+  border-color: #efefef;
+  color: #495562;
+}
